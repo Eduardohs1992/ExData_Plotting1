@@ -1,3 +1,10 @@
+#################################
+### Exploratory Data Analysis ###
+###      Project week 1       ###
+#################################
+
+setwd("C:/coursera/data_analysis/week1")
+
 #assume the database file located at working directory
 
 #file name
